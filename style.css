@@ -1,0 +1,21 @@
+.odna{
+    font-size: 48px;
+    color:white;
+    background-color: darkblue;
+}
+.dve:hover{
+    background-color: black;
+}
+.dve{
+    background-color: blue;
+}
+.tri:hover{
+    background-color: brown;
+}
+.tri{
+    background-color: blueviolet;
+}
+ul{
+    font-size: 15px;
+    font-weight: 70px;
+}
